@@ -32,7 +32,7 @@ Future updates will expand the platform to cover **more mathematical topics** an
 It offers personalized recommendations for areas that need improvement, helping students focus on key concepts.  
 
 <div align="center">
-  <img src="images/profile-page.jpg" width="500">
+  <img src="images/profile-page.jpg" width="300" height="500" >
 </div>  
 
 ---

@@ -44,8 +44,8 @@ It offers personalized recommendations for areas that need improvement, helping 
 ---
 
 ## 🏆 **Creators**  
-📌 [**Lance Adrian Acal**](github.com/lncadrnn)  
-📌 [**Austin Moreno**](github.com/meioseii)  
+📌 [**Lance Adrian**](github.com/lncadrnn)  
+📌 [**Meioseii**](github.com/meioseii)  
 *Developed for Software Engineering II*  
 
 ---
